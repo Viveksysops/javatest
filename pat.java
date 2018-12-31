@@ -2,6 +2,6 @@ class pat
 {
 
    public static void main(String[] args) {
-       System.out.println(" ## Hello Genius, Vivek ##5rd push succeed !!!!! ");
+       System.out.println(" ## Hello Genius, Vivek ##6rd push succeed !!!!! ");
    }
 }
